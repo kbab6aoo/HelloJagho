@@ -15,3 +15,10 @@ Tasks
 -	Add this project to Jenkins
 
 -	Configure Jenkins job to trigger the execution when a change is pushed to GitHub
+
+```
+git status
+git add
+git commit
+```
+Use `git status` to list all new modified files that haven't yet to be committed
