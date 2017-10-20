@@ -6,7 +6,7 @@ Tasks
 
 -	Create a java program
 		
--	Run the application through command line
+	-	Run the application through command line
 
 -	Create a Jenkins job to run the java program
 
