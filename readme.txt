@@ -1,15 +1,17 @@
 Jenkins Integration with GIT
-============================
+----------------------------
 
 Tasks
+-----
 
-1	Create a java program
-	1.1	Run the application through command line
+Step 1:	Create a java program
+		
+Step 2:	Run the application through command line
 
-2	Create a Jenkins job to run the java program
+Step 3:	Create a Jenkins job to run the java program
 
-3	Create a Project for the program in GIT
+Step 4:	Create a Project for the program in GIT
 
-4	Add this project to Jenkins
+Step 5:	Add this project to Jenkins
 
-5 	Configure Jenkins job to trigger the execution when a change is pushed to GitHub
+Step 6: Configure Jenkins job to trigger the execution when a change is pushed to GitHub
