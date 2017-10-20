@@ -22,3 +22,7 @@ git add
 git commit
 ```
 Use `git status` to list all new modified files that haven't yet to be committed
+
+# The largest heading
+## The second largest heading
+##### The smallest heading
