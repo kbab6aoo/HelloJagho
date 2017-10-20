@@ -4,7 +4,7 @@ public class myJagho{
 		
 		for (int i=1; i<=10; i++) {
 
-			System.out.println("Welcome to Jagho Consutlants ..."+i);
+			System.out.println("Welcome to Jagho Consultants ..."+i);
 			
 		}
 	}
