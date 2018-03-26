@@ -15,3 +15,5 @@
 -	Configure Jenkins job to trigger the execution when a change is pushed to GitHub
 
 -	Email Notification added
+
+-	This is a demo
